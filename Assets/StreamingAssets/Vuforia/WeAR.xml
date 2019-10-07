@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="toronto-house-for-sale-53-burnhamthorpe-crescent-1-803x603" size="5.000000 3.754670" />
+    <ImageTarget name="terrah-holly-16329-unsplash-min" size="5.000000 3.333333" />
+    <ImageTarget name="architecture-beautiful-exterior-106399-min" size="5.000000 3.333025" />
+    <ImageTarget name="architecture-autumn-autumn-colors-1029599-min" size="5.000000 3.320895" />
+    <ImageTarget name="apartment-architectural-design-architecture-323780" size="5.000000 3.222834" />
+  </Tracking>
+</QCARConfig>
